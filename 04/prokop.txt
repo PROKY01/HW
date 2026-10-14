@@ -1,1 +1,10 @@
-dfdd
+Datum měření: 14. 10. 2026
+Měřil: <Jiří Prokop>
+Skupina číslo: <Skupina 11>
+Jméno měření: <Měření CPU 1>
+
+Měřený HW: <AMD FX-6300>
+Měřicí SW: <wPrime>
+Použitý OS: <Win 10>
+ 
+Link na video: <>
