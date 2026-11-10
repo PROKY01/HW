@@ -1,0 +1,12 @@
+Datum měření: 21. 10. 2026
+Měřil: <Jiří Prokop>
+Skupina číslo: <Skupina 11>
+Jméno měření: <Měření CPU 2>
+
+Měřený HW: <AMD FX-6300>
+Měřicí SW: <x264 FHD Benchmark>
+Použitý OS: <Win 10>
+ 
+Link na video: <https://ssptaji-my.sharepoint.com/:v:/r/personal/l20240054_prumyslovkajihlava_cz/_layouts/15/stream.aspx?id=%2Fpersonal%2Fl20240054_prumyslovkajihlava_cz%2FDocuments%2FHW%20Videa%2Fcpu_2_prokop.mp4&share=cQrQrNi3Xql6QoYP7UMQjEFQEgUCxMDI-8db9kBH7rDZeoDWsg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0>
+
+Poznámka: <Byl použit jiný měřicí SW, než byl přidělen z důvodu nefunkčnosti.>

@@ -7,4 +7,4 @@ Měřený HW: <AMD FX-6300>
 Měřicí SW: <wPrime>
 Použitý OS: <Win 10>
  
-Link na video: <>
+Link na video: <https://ssptaji-my.sharepoint.com/:v:/g/personal/l20240054_prumyslovkajihlava_cz/IQCzhpKV0FfzR5kr87oMqdNtAa1RhJXj1Kvqf7EdHHFdqPE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9FYAAa>
